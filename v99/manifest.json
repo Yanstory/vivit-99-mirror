@@ -1,0 +1,12 @@
+{
+    "name": "VIVIT-99",
+    "short_name": "VIVIT-99",
+    "icons": [
+        { "src": "./favicon.ico", "type": "image/x-icon", "sizes": "192x192" },
+        { "src": "./icon144.png", "type": "image/png", "sizes": "144x144" }
+    ],
+    "start_url": "./",
+    "display": "fullscreen",
+    "theme_color": "#222",
+    "background_color": "#222"
+}
