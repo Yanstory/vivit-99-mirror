@@ -2,6 +2,8 @@
 
 A mirror of orginal game [ＶＩＶＩＴ－９９](https://ss-do.sakura.ne.jp/v99) by [瞬殺サレ道？](https://ss-do.sakura.ne.jp/)
 
+[DEMO(Test)](https://yanstory.github.io/v99-test/index.html)
+
 ## About the game
 
 ＶＩＶＩＴ－９９, count as a new game by 瞬殺サレ道？, the Seihou Project producer, is a STG royale game inspired from [Tetris 99](https://tetris99.nintendo.com/).
