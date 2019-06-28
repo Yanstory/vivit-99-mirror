@@ -2,7 +2,7 @@
 
 A mirror of orginal game [ＶＩＶＩＴ－９９](https://ss-do.sakura.ne.jp/v99) by [瞬殺サレ道？](https://ss-do.sakura.ne.jp/)
 
-[DEMO(Test)](https://yanstory.github.io/v99-test/index.html)
+[PLAY GAME](https://yanstory.github.io/vivit-99-mirror/index.html)
 
 ## About the game
 
