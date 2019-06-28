@@ -4673,7 +4673,7 @@ object-assign
       , v = i ? Symbol.for("react.lazy") : 60116
       , g = "function" == typeof Symbol && Symbol.iterator;
     function y(e) {
-        for (var t = arguments.length - 1, n = "https://web.archive.org/web/20190331193806/https://reactjs.org/docs/error-decoder.html?invariant=" + e, r = 0; r < t; r++)
+        for (var t = arguments.length - 1, n = "https://reactjs.org/docs/error-decoder.html?invariant=" + e, r = 0; r < t; r++)
             n += "&args[]=" + encodeURIComponent(arguments[r + 1]);
         !function(e, t, n, r, i, o, a, u) {
             if (!e) {
@@ -5062,7 +5062,7 @@ object-assign
       , i = n(2)
       , o = n(8);
     function a(e) {
-        for (var t = arguments.length - 1, n = "https://web.archive.org/web/20190331193806/https://reactjs.org/docs/error-decoder.html?invariant=" + e, r = 0; r < t; r++)
+        for (var t = arguments.length - 1, n = "https://reactjs.org/docs/error-decoder.html?invariant=" + e, r = 0; r < t; r++)
             n += "&args[]=" + encodeURIComponent(arguments[r + 1]);
         !function(e, t, n, r, i, o, a, u) {
             if (!e) {
@@ -11797,7 +11797,7 @@ object-assign
         }, i.createElement("a", {
             className: "link",
             target: "new",
-            href: "https://web.archive.org/web/20190331193806/https://ss-do.sakura.ne.jp/"
+            href: "https://ss-do.sakura.ne.jp/"
         }, "? 2019 Ë²š¢¥µ¥ìµÀ£¿")))
     }
     class m {
@@ -19929,7 +19929,7 @@ object-assign
             hashtags: e.hash,
             text: e.text
         }
-          , n = "https://web.archive.org/web/20190331193806/https://twitter.com/share?" + Object(Pn.stringify)(t);
+          , n = "https://twitter.com/share?" + Object(Pn.stringify)(t);
         return i.createElement("a", {
             href: n,
             target: "new",
@@ -19985,7 +19985,7 @@ object-assign
             title: "½Y¹û¤ò¥Ä¥¤©`¥È¤¹¤ë",
             text: s,
             hash: "VIVIT99",
-            url: "https://web.archive.org/web/20190331193806/https://ss-do.sakura.ne.jp/v99"
+            url: "https://ss-do.sakura.ne.jp/v99"
         }), i.createElement("div", {
             onClick: ()=>{
                 e.close(),
